@@ -1,5 +1,5 @@
 # hello-world
 
-Hey there1
+Hey there!
 
 I like to drink coffee and eat ramen.
